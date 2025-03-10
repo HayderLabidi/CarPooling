@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://mernstack.com" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" width="400">
+  <a href="https://mernjs.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/MERN_Stack_logo.png" width="400">
   </a>
 </p>
 
