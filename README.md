@@ -1,8 +1,12 @@
-<p align="center"><a href="https://reactjs.org" target="_blank"><img src="https://www.svgrepo.com/show/354259/react.svg" width="400"></a></p>
+<p align="center">
+  <a href="https://mernstack.com" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:1200/1*J3G3akaMpUOLegw0p0qthA.png" width="400">
+  </a>
+</p>
 
 # Carpooling App 🚗
 
-A modern carpooling app built with **ReactJS** and **Vite** that connects drivers and passengers for shared rides. The app includes features like location-based search, ride posting, messaging, and user profiles.
+A modern carpooling app built with the **MERN stack** (MongoDB, Express.js, React, Node.js) that connects drivers and passengers for shared rides. The app includes features like location-based search, ride posting, messaging, and user profiles.
 
 ---
 
