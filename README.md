@@ -13,4 +13,6 @@ A modern carpooling app built with the **MERN stack** (MongoDB, Express.js, Reac
 ## Quick Start
 
 1. **Clone the repository**:
-   git clone https://github.com/your-username/carpooling-app.git
+```
+  git clone https://github.com/your-username/carpooling-app.git
+```
