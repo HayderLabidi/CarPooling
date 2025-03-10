@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mernjs.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/MERN_Stack_logo.png" width="400">
+    <img src="PFE-Project/MERN-logo.png" width="400">
   </a>
 </p>
 
